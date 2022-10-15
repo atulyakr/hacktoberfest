@@ -1,3 +1,9 @@
+ ####Name: [Atulya Kumar](https://github.com/atulyakr)
+
+- Place: Dhanbad, Jharkhand, India
+- Bio: I am a sophomore computer science undergrad(pursuing B-Tech)
+- GitHub: [Atulya kumar](https://github.com/atulyakr)
+
 #### Name: [Papai Singha](https://github.com/papaihactober2k21)
 -Place: Kolkata, West Bengal, India
 -Bio: I am a student.
